@@ -20,7 +20,6 @@ import com.handsOn3.app.entity.SquareRootEntity;
 public class EndPointsManagement {
 	
 	
-	// EndPoints Services =======================================================
 	
 	
 	/* ===== Square Root OPERATION ===== */
